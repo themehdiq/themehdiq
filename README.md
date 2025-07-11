@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mehdi Qazzih</h1>
-<h3 align="center">A passionate MERN Stack developer from Morocco</h3>
+<h3 align="center">A passionate Full Stack developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themehdiq&label=Profile%20views&color=0e75b6&style=flat" alt="themehdiq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themehdiq" alt="themehdiq" /></a> </p>
 
-- 🔭 I’m currently working on **Parking Management Web App**
+- 🔭 I’m currently working on **OI**
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **qazzih.mehdi97@gmail.com**
 
