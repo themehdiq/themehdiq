@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themehdiq" alt="themehdiq" /></a> </p>
 
-- 🔭 I’m currently working on **Leon Agency Website Project**
+- 🔭 I’m currently working on **Freelance Projects**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
